@@ -29,6 +29,8 @@ famous, sorted alphabetically
 
 ## Zouk DJs
 
+* [DJ Zara](https://www.mixcloud.com/zara-howard/)
+
 # Zouk Communities
 
 - [ZoukNerds](https://www.facebook.com/groups/zouknerds) - Facebook group on anything Zouk. Managed by Alisson Sandi, Gui Prada, Laura Riva.
