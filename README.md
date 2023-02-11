@@ -29,6 +29,7 @@ famous, sorted alphabetically
 
 ## Zouk DJs
 
+* [DJ Ocho Z](https://www.mixcloud.com/ochoz/)
 * [DJ Zara](https://www.mixcloud.com/zara-howard/)
 
 # Zouk Communities
