@@ -27,6 +27,10 @@ famous, sorted alphabetically
 
 ## Zouk DJs
 
+# Zouk Communities
+
+- [ZoukNerds](https://www.facebook.com/groups/zouknerds) - Facebook group on anything Zouk. Managed by Alisson Sandi, Gui Prada, Laura Riva.
+
 # Zouk Events
 
 ## Worldwide events
