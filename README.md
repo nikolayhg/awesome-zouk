@@ -30,6 +30,7 @@ famous, sorted alphabetically
 ## Zouk DJs
 
 * [DJ Efosa Uwa-OmedePro](https://www.mixcloud.com/efosa-uwa-omede/)
+* [DJ Mesmes](https://www.mixcloud.com/djmesmes/)
 * [DJ Ocho Z](https://www.mixcloud.com/ochoz/)
 * [DJ Zara](https://www.mixcloud.com/zara-howard/)
 
