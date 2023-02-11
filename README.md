@@ -33,6 +33,10 @@ famous, sorted alphabetically
 
 - [ZoukNerds](https://www.facebook.com/groups/zouknerds) - Facebook group on anything Zouk. Managed by Alisson Sandi, Gui Prada, Laura Riva.
 
+# Zouk Podcasts
+
+* [Brazilian Zouk No Cap Podcast](https://soundcloud.com/bzncpodcast)
+
 # Zouk Events
 
 ## Worldwide events
