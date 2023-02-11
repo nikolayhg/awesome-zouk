@@ -18,6 +18,7 @@ famous, sorted alphabetically
 
 * Anderson & Brenda - [Website](https://andersonbrenda.com/), [YouTube](https://www.youtube.com/@AndersonBrenda), [Instagram](https://www.instagram.com/andersonbrenda)
 * Carlos and Fernanda - [Website](https://www.brazilianzoukonlineclasses.com/), [YouTube](https://www.youtube.com/@carlosandfernanda6241), [Instagram](https://www.instagram.com/carlosandfernanda/)
+* Gui Prada - [YouTube](https://www.youtube.com/@guilhermeprada), [Instagram](https://www.instagram.com/gui_prada/)
 * Kadu & Larissa - [Website](https://kadularissaonline.com/), [YouTube](https://www.youtube.com/@KaduLarissaKLDance)
 * Rick Torri & Larissa Secco - [YouTube](https://www.youtube.com/watch?v=czoYt0Dd_bQ)
 * William Teixeira - [YouTube](https://www.youtube.com/@williamteixeira2376), [Instagram](https://www.instagram.com/williamteixeira.dancer/)
