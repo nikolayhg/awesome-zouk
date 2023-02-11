@@ -14,7 +14,7 @@ A curated list of awesome Zouk resources.
 
 # Zouk Dancers
 
-sorted alphabetically
+famous, sorted alphabetically
 
 * Anderson & Brenda - [Website](https://andersonbrenda.com/), [YouTube](https://www.youtube.com/@AndersonBrenda), [Instagram](https://www.instagram.com/andersonbrenda)
 * Carlos and Fernanda - [Website](https://www.brazilianzoukonlineclasses.com/), [YouTube](https://www.youtube.com/@carlosandfernanda6241), [Instagram](https://www.instagram.com/carlosandfernanda/)
