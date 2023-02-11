@@ -13,6 +13,8 @@ A curated list of awesome Zouk resources.
 sorted alphabetically
 
 * [Anderson & Brenda](https://andersonbrenda.com/)
+* [Rick Torri & Larissa Secco](https://www.youtube.com/watch?v=czoYt0Dd_bQ)
+* [William Teixeira](https://www.youtube.com/@williamteixeira2376)
 
 # Zouk Music
 
