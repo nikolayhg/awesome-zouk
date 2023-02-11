@@ -10,6 +10,10 @@ A curated list of awesome Zouk resources.
 
 # Zouk Dancers
 
+sorted alphabetically
+
+* [Anderson & Brenda](https://andersonbrenda.com/)
+
 # Zouk Music
 
 ## Zouk DJs
