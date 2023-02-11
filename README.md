@@ -40,6 +40,7 @@ famous, sorted alphabetically
 # Zouk Podcasts
 
 * [Brazilian Zouk No Cap Podcast](https://soundcloud.com/bzncpodcast)
+* [Let's Talk Zouk Podcast](https://letstalkzouk.buzzsprout.com/) - by Pedrinho Mattos & Ricky Fox.
 
 # Zouk Events
 
