@@ -2,7 +2,19 @@
 
 A curated list of awesome Zouk resources.
 
-# Events
+# Learning Zouk
+
+### Basics
+
+### Musicality
+
+# Zouk Dancers
+
+# Zouk Music
+
+## Zouk DJs
+
+# Zouk Events
 
 ## Worldwide events
 
@@ -11,3 +23,9 @@ A curated list of awesome Zouk resources.
 ## European events
 
 * [Zouk Calendar European Events - Google Doc](https://docs.google.com/spreadsheets/d/1h10hXMBmejYJKrV4NWC76ukEU65WfIy5CKiZIIT1xaQ/htmlview) by Connie Yndal Pedersen and Remy Vermunt
+
+# Zouk Styles
+
+# Zouk History
+
+# Teaching Zouk
