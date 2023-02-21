@@ -13,6 +13,7 @@ A curated list of awesome Zouk resources.
 ## Paid Courses
 
 * [brazilianzoukonlineclasses](https://www.brazilianzoukonlineclasses.com/) - by Carlos and Fernanda
+* [The Empowered Dancers](https://theempowereddancers.com/)
 
 # Zouk Dancers
 
@@ -25,6 +26,11 @@ famous, sorted alphabetically
 * Kadu & Larissa - [Website](https://kadularissaonline.com/), [YouTube](https://www.youtube.com/@KaduLarissaKLDance)
 * Rick Torri & Larissa Secco - [YouTube](https://www.youtube.com/watch?v=czoYt0Dd_bQ)
 * William Teixeira - [YouTube](https://www.youtube.com/@williamteixeira2376), [Instagram](https://www.instagram.com/williamteixeira.dancer/)
+* Bruno & Raiza - [YouTube](https://www.youtube.com/@brunoraizagalhardodance346), [Instagram](https://www.instagram.com/galhardodancers/)
+* Michael & Aline - [Instagram](https://www.instagram.com/alineborges_michaelboy/)
+* Alex de Carvalho & Mathilde dos Santos - [Website](https://alexdecarvalho.com.br/alexandmathilde/), [Instagram](https://www.instagram.com/alex.d.carvalho/)
+* Marck & Melyssa - [YouTube](https://www.youtube.com/@marckmelyssazouk3021), [Instagram](https://www.instagram.com/marckemelyssa/)
+* Layssa & Arthur - [YouTube](https://www.youtube.com/@LayssaArthurDance)
 
 # Zouk Music
 
