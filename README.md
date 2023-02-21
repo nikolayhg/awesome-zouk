@@ -19,18 +19,18 @@ A curated list of awesome Zouk resources.
 
 famous, sorted alphabetically
 
+* Alex de Carvalho & Mathilde dos Santos - [Website](https://alexdecarvalho.com.br/alexandmathilde/), [Instagram](https://www.instagram.com/alex.d.carvalho/)
 * Anderson & Brenda - [Website](https://andersonbrenda.com/), [YouTube](https://www.youtube.com/@AndersonBrenda), [Instagram](https://www.instagram.com/andersonbrenda)
+* Bruno & Raiza - [YouTube](https://www.youtube.com/@brunoraizagalhardodance346), [Instagram](https://www.instagram.com/galhardodancers/)
 * Carlos and Fernanda - [Website](https://www.brazilianzoukonlineclasses.com/), [YouTube](https://www.youtube.com/@carlosandfernanda6241), [Instagram](https://www.instagram.com/carlosandfernanda/)
 * Gui Prada - [YouTube](https://www.youtube.com/@guilhermeprada), [Instagram](https://www.instagram.com/gui_prada/)
 * Iago Hassuike & Vanessa Meirelles - [YouTube](https://www.youtube.com/@iagoevanessa6338)
 * Kadu & Larissa - [Website](https://kadularissaonline.com/), [YouTube](https://www.youtube.com/@KaduLarissaKLDance)
+* Layssa & Arthur - [YouTube](https://www.youtube.com/@LayssaArthurDance)
+* Marck & Melyssa - [YouTube](https://www.youtube.com/@marckmelyssazouk3021), [Instagram](https://www.instagram.com/marckemelyssa/)
+* Michael & Aline - [Instagram](https://www.instagram.com/alineborges_michaelboy/)
 * Rick Torri & Larissa Secco - [YouTube](https://www.youtube.com/watch?v=czoYt0Dd_bQ)
 * William Teixeira - [YouTube](https://www.youtube.com/@williamteixeira2376), [Instagram](https://www.instagram.com/williamteixeira.dancer/)
-* Bruno & Raiza - [YouTube](https://www.youtube.com/@brunoraizagalhardodance346), [Instagram](https://www.instagram.com/galhardodancers/)
-* Michael & Aline - [Instagram](https://www.instagram.com/alineborges_michaelboy/)
-* Alex de Carvalho & Mathilde dos Santos - [Website](https://alexdecarvalho.com.br/alexandmathilde/), [Instagram](https://www.instagram.com/alex.d.carvalho/)
-* Marck & Melyssa - [YouTube](https://www.youtube.com/@marckmelyssazouk3021), [Instagram](https://www.instagram.com/marckemelyssa/)
-* Layssa & Arthur - [YouTube](https://www.youtube.com/@LayssaArthurDance)
 
 # Zouk Music
 
