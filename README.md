@@ -21,7 +21,7 @@ famous, sorted alphabetically
 
 * Alex de Carvalho & Mathilde dos Santos - [Website](https://alexdecarvalho.com.br/alexandmathilde/), [Instagram](https://www.instagram.com/alex.d.carvalho/)
 * Anderson & Brenda - [Website](https://andersonbrenda.com/), [YouTube](https://www.youtube.com/@AndersonBrenda), [Instagram](https://www.instagram.com/andersonbrenda)
-* Bruno & Raiza - [Website](https://en.brgalhardo.com/) [YouTube](https://www.youtube.com/@brunoraizagalhardodance346), [Instagram](https://www.instagram.com/galhardodancers/)
+* Bruno & Raiza - [Website](https://en.brgalhardo.com/), [YouTube](https://www.youtube.com/@brunoraizagalhardodance346), [Instagram](https://www.instagram.com/galhardodancers/)
 * Carlos and Fernanda - [Website](https://www.brazilianzoukonlineclasses.com/), [YouTube](https://www.youtube.com/@carlosandfernanda6241), [Instagram](https://www.instagram.com/carlosandfernanda/)
 * Gui Prada - [YouTube](https://www.youtube.com/@guilhermeprada), [Instagram](https://www.instagram.com/gui_prada/)
 * Iago Hassuike & Vanessa Meirelles - [YouTube](https://www.youtube.com/@iagoevanessa6338)
