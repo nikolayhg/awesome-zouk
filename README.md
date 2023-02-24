@@ -33,10 +33,6 @@ famous, sorted alphabetically
 
 # Zouk Music
 
-## History
-
-* [Britannica](https://www.britannica.com/art/zouk)
-
 ## Zouk DJs
 
 * [DJ Efosa Uwa-OmedePro](https://www.mixcloud.com/efosa-uwa-omede/)
@@ -70,7 +66,8 @@ famous, sorted alphabetically
 
 # Zouk Dance History
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Zouk)
 * [Brazilian Zouk Council](https://www.brazilianzoukcouncil.com/dance-education/history-of-brazilian-zouk/)
+* [Britannica](https://www.britannica.com/art/zouk)
+* [Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Zouk)
 
 # Teaching Zouk
