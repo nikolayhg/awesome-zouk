@@ -6,14 +6,13 @@ A curated list of awesome Zouk resources.
 
 ## Basics
 
-* [Zouk Atoms](https://zoukatoms.com/) - a new system to learn Brazilian Zouk by Fernando Rodriguez and Olga Kostrova. Free and paid verison.
-
 ## Musicality
 
 ## Paid Courses
 
 * [brazilianzoukonlineclasses](https://www.brazilianzoukonlineclasses.com/) - by Carlos and Fernanda
 * [The Empowered Dancers](https://theempowereddancers.com/)
+* [Zouk Atoms](https://zoukatoms.com/) - a new system to learn Brazilian Zouk by Fernando Rodriguez and Olga Kostrova. Free (intro) and paid verison.
 
 # Zouk Dancers
 
