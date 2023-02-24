@@ -67,7 +67,7 @@ famous, sorted alphabetically
 
 # Zouk Styles
 
-* [Brazilian Zouk Styles](https://en.wikipedia.org/wiki/Brazilian_Zouk)
+* [Brazilian Zouk Styles](https://en.wikipedia.org/wiki/Brazilian_Zouk#Styles)
 
 # Zouk Dance History
 
