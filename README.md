@@ -34,12 +34,17 @@ famous, sorted alphabetically
 
 # Zouk Music
 
+## History
+
+* [Britannica](https://www.britannica.com/art/zouk)
+
 ## Zouk DJs
 
 * [DJ Efosa Uwa-OmedePro](https://www.mixcloud.com/efosa-uwa-omede/)
 * [DJ Mesmes](https://www.mixcloud.com/djmesmes/)
 * [DJ Ocho Z](https://www.mixcloud.com/ochoz/)
 * [DJ Zara](https://www.mixcloud.com/zara-howard/)
+
 
 # Zouk Communities
 
@@ -62,6 +67,11 @@ famous, sorted alphabetically
 
 # Zouk Styles
 
-# Zouk History
+* [Brazilian Zouk Styles](https://en.wikipedia.org/wiki/Brazilian_Zouk)
+
+# Zouk Dance History
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Zouk)
+* [Brazilian Zouk Council](https://www.brazilianzoukcouncil.com/dance-education/history-of-brazilian-zouk/)
 
 # Teaching Zouk
