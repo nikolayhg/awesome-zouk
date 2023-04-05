@@ -31,6 +31,7 @@ famous, sorted alphabetically
 * Iago Hassuike & Vanessa Meirelles - [YouTube](https://www.youtube.com/@iagoevanessa6338)
 * Kadu & Larissa - [Website](https://kadularissaonline.com/), [YouTube](https://www.youtube.com/@KaduLarissaKLDance)
 * Layssa & Arthur - [YouTube](https://www.youtube.com/@LayssaArthurDance)
+* Lucas & Thayná - [YouTube](https://www.youtube.com/@LucasOliveiraOficial1), [Instagram](https://www.instagram.com/LucasOlivee/)
 * Marck & Melyssa - [YouTube](https://www.youtube.com/@marckmelyssazouk3021), [Instagram](https://www.instagram.com/marckemelyssa/)
 * Michael & Aline - [Instagram](https://www.instagram.com/alineborges_michaelboy/)
 * Rick Torri & Larissa Secco - [YouTube](https://www.youtube.com/watch?v=czoYt0Dd_bQ)
