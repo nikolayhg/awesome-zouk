@@ -77,3 +77,5 @@ famous, sorted alphabetically
 * [Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Zouk)
 
 # Teaching Zouk
+
+* [Metod Alex de Carvalho](https://alexdecarvalho.com.br/brazilianzoukmac/)
