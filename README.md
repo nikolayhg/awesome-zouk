@@ -18,6 +18,7 @@ A curated list of awesome Zouk resources.
 * [The Empowered Dancers](https://theempowereddancers.com/) - Brazilian Zouk classes, physical skills for dancers and self care
 * [Zouk Atoms](https://zoukatoms.com/) - a new system to learn Brazilian Zouk by Fernando Rodriguez and Olga Kostrova. Free (intro) and paid verison.
 * [Online Zouk School](https://www.onlinezoukschool.com/) - Tiago and Emilia, brazilian Zouk teachers living in Cologne, Germany
+* [District Zouk]([https://www.districtzouk.com/](https://www.districtzouk.com/pages/district-zouk-online))
 
 # Zouk Dancers
 
