@@ -80,3 +80,4 @@ famous, sorted alphabetically
 # Teaching Zouk
 
 * [Metod Alex de Carvalho](https://alexdecarvalho.com.br/brazilianzoukmac/)
+* [Kadu & Larissa teachers training](https://www.kadularissa.com/kl-teachers-training-2023/)
