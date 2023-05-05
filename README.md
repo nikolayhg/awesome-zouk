@@ -77,6 +77,7 @@ famous, sorted alphabetically
 * [Brazilian Zouk Council](https://www.brazilianzoukcouncil.com/dance-education/history-of-brazilian-zouk/)
 * [Britannica](https://www.britannica.com/art/zouk)
 * [Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Zouk)
+* [History of Lambada and Brazilian Zouk with Renata Pecanha (Video)](https://www.youtube.com/watch?v=HyxhDm8nEPk)
 
 # Teaching Zouk
 
