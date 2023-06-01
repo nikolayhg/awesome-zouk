@@ -16,6 +16,7 @@ A curated list of awesome Zouk resources.
 
 * [Brazilian Zouk Online Classes](https://www.brazilianzoukonlineclasses.com/) - by Carlos and Fernanda
 * [District Zouk](https://www.districtzouk.com/pages/district-zouk-online) - by instructors (Gui Prada and more) in Washington, DC, USA
+* [Kadu and Larissa Online Dance Classes](https://kadularissaonline.com/) - by Kadu and Larissa
 * [Online Zouk School](https://www.onlinezoukschool.com/) - Tiago and Emilia, brazilian Zouk teachers living in Cologne, Germany
 * [VDance Club](https://vdanceclub.com/) - 5 Brazilian Zouk classes with Arthur and Layssa
 * [The Empowered Dancers](https://theempowereddancers.com/) - Brazilian Zouk classes, physical skills for dancers and self care
