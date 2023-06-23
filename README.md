@@ -15,6 +15,7 @@ A curated list of awesome Zouk resources.
 ## Paid Courses
 
 * [Brazilian Zouk Online Classes](https://www.brazilianzoukonlineclasses.com/) - by Carlos and Fernanda
+* [Bruno Galhardo & Raiza Previato Courses](https://en.brgalhardo.com/) - Zouk Basics, BR Cool Moves and BRIC Improvement courses by Bruno Galhardo & Raiza Previato. 
 * [District Zouk](https://www.districtzouk.com/pages/district-zouk-online) - by instructors (Gui Prada and more) in Washington, DC, USA
 * [Kadu and Larissa Online Dance Classes](https://kadularissaonline.com/) - by Kadu and Larissa
 * [Online Zouk School](https://www.onlinezoukschool.com/) - Tiago and Emilia, brazilian Zouk teachers living in Cologne, Germany
