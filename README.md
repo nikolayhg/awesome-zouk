@@ -71,6 +71,10 @@ famous, sorted alphabetically
 
 * [Zouk Calendar European Events - Google Doc](https://docs.google.com/spreadsheets/d/1h10hXMBmejYJKrV4NWC76ukEU65WfIy5CKiZIIT1xaQ/htmlview) by Connie Yndal Pedersen and Remy Vermunt
 
+## Brazilian events
+
+* [Zouk Calendar Brazilian Events - Google Doc](https://docs.google.com/spreadsheets/d/1w0qh8AIH74qJyY824E5CWe7u0KJqnwZppMGZIhS80hs/htmlview)
+
 # Zouk Styles
 
 * [Brazilian Zouk Styles](https://en.wikipedia.org/wiki/Brazilian_Zouk#Styles)
