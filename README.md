@@ -23,6 +23,7 @@ A curated list of awesome Zouk resources.
 * [The Empowered Dancers](https://theempowereddancers.com/) - Brazilian Zouk classes, physical skills for dancers and self care
 * [ZenZouk](https://www.zenzouklibrary.com/) - Brazilian Zouk and Lambada courses by Ryel
 * [Zouk Atoms](https://zoukatoms.com/) - a new system to learn Brazilian Zouk by Fernando Rodriguez and Olga Kostrova. Free (intro) and paid verison
+* [Dancelib](https://dancelib.com/) - Library with lots of dancing styles, including Zouk.
 
 # Zouk Dancers
 
