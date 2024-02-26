@@ -92,3 +92,7 @@ famous, sorted alphabetically
 * [B&R Improvement Course](https://en.brgalhardo.com/curso-de-aperfeicoamento) - Level 4 and 5 for Teachers, by Bruno & Raiza.
 * [Metod Alex de Carvalho](https://alexdecarvalho.com.br/brazilianzoukmac/)
 * [Kadu & Larissa teachers training](https://www.kadularissa.com/kl-teachers-training-2023/)
+
+# General Dancing
+
+* [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) - curated repository of biomechanical resources
