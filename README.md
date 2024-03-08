@@ -6,8 +6,6 @@ A curated list of awesome Zouk resources.
 
 ## Basics
 
-## Musicality
-
 ## Free Courses
 
 * [Online Zouk School](https://www.youtube.com/watch?v=CwCqkhhReko&list=PLtg3wEXTYx6pDBoVcgGk2CIRA05dJytoW&index=3)
@@ -75,6 +73,27 @@ famous, sorted alphabetically
 ## Brazilian events
 
 * [Zouk Calendar Brazilian Events - Google Doc](https://docs.google.com/spreadsheets/d/1w0qh8AIH74qJyY824E5CWe7u0KJqnwZppMGZIhS80hs/htmlview)
+
+# Zouk Classes
+
+TODO: please add Zouk classes by continent, country, city and links
+
+## South America
+
+### Brazil
+
+## North America
+
+### US
+
+## Europe
+
+### Poland
+
+- [Warsaw](https://zouktoday.com/warsaw) - all zouk classes and events in Warsaw.
+
+### Germany
+
 
 # Zouk Styles
 
