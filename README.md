@@ -94,6 +94,7 @@ TODO: please add Zouk classes by continent, country, city and links
 
 ### Germany
 
+- [Zouk in Germany](https://zoukmunich.com/zouk-germany) - link compilation by Zouk Munich.
 
 # Zouk Styles
 
