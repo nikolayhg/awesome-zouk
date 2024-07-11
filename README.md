@@ -9,6 +9,7 @@ A curated list of awesome Zouk resources.
 ## Free Courses
 
 * [Online Zouk School](https://www.youtube.com/watch?v=CwCqkhhReko&list=PLtg3wEXTYx6pDBoVcgGk2CIRA05dJytoW&index=3)
+* [Zouk Atoms - FF Course](https://www.youtube.com/playlist?list=PLS9C6blUpe_fiIK3D4gb8DMuiAP8GzKRs)
 
 ## Paid Courses
 
