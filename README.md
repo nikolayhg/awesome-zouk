@@ -75,6 +75,11 @@ famous, sorted alphabetically
 
 * [Zouk Calendar Brazilian Events - Google Doc](https://docs.google.com/spreadsheets/d/1w0qh8AIH74qJyY824E5CWe7u0KJqnwZppMGZIhS80hs/htmlview)
 
+
+# Zouk J&J
+
+* [Brazilian Zouk Dance Council](https://www.brazilianzoukcouncil.com/) - serves, supports, and promotes all aspects of Brazilian Zouk.
+
 # Zouk Classes
 
 TODO: please add Zouk classes by continent, country, city and links
