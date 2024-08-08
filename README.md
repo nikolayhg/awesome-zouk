@@ -78,7 +78,7 @@ famous, sorted alphabetically
 
 # Zouk J&J
 
-* [Brazilian Zouk Dance Council](https://www.brazilianzoukcouncil.com/) - serves, supports, and promotes all aspects of Brazilian Zouk.
+* [Brazilian Zouk Dance Council](https://www.brazilianzoukcouncil.com/) - serves, supports, and promotes all aspects of Brazilian Zouk. [Judging Criteria](https://www.brazilianzoukcouncil.com/competitors/judging-criteria/)
 
 # Zouk Classes
 
