@@ -118,6 +118,29 @@ TODO: please add Zouk classes by continent, country, city and links
 * [B&R Improvement Course](https://en.brgalhardo.com/curso-de-aperfeicoamento) - Level 4 and 5 for Teachers, by Bruno & Raiza.
 * [Metod Alex de Carvalho](https://alexdecarvalho.com.br/brazilianzoukmac/)
 * [Kadu & Larissa teachers training](https://www.kadularissa.com/kl-teachers-training-2023/)
+* 
+# Zouk Travel
+
+## Zouk Travel in Europe
+
+### Flights
+- [skyscanner](https://skyscanner.com/) - search by city, country, month
+- [azair](https://www.azair.eu/) - search by city, country, days, connections
+
+### Trains
+- Poland: https://www.intercity.pl/en/
+- Germany: https://bahn.de/
+- France: https://www.sncf-connect.com/en-en/
+
+### Accomodation
+
+#### Free
+- contact local Zouk dancers at the event, either directly or in their groups
+
+#### Paid
+
+- https://www.booking.com/
+- https://airbnb.com/
 
 # General Dancing
 
