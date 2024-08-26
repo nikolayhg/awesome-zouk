@@ -115,10 +115,10 @@ TODO: please add Zouk classes by continent, country, city and links
 
 # Teaching Zouk
 
-* [B&R Improvement Course](https://en.brgalhardo.com/curso-de-aperfeicoamento) - Level 4 and 5 for Teachers, by Bruno & Raiza.
 * [Metod Alex de Carvalho](https://alexdecarvalho.com.br/brazilianzoukmac/)
+* [B&R Improvement Course](https://en.brgalhardo.com/curso-de-aperfeicoamento) - Level 4 and 5 for Teachers, by Bruno & Raiza.
 * [Kadu & Larissa teachers training](https://www.kadularissa.com/kl-teachers-training-2023/)
-* 
+
 # Zouk Travel
 
 ## Zouk Travel in Europe
