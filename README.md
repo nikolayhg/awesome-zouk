@@ -66,6 +66,7 @@ famous, sorted alphabetically
 ## Worldwide events
 
 * [Calendar of Zouk Congresses - Google Doc](https://docs.google.com/spreadsheets/d/13os9Gw6usb6D0KOobyTsf0p6jTHvZDfQnWnRrOHgtN8/edit#gid=649819658) by Benjamin Tritt
+* [DanceEvents](https://www.dance-events.info/dance/zouk) by Mark Scherer
 
 ## European events
 
