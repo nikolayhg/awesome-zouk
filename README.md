@@ -1,6 +1,6 @@
 # Awesome Zouk
 
-A curated list of awesome Zouk resources.
+A curated list of awesome Brazilian Zouk resources.
 
 # Learning Zouk
 
