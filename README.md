@@ -1,4 +1,4 @@
-# Awesome Zouk
+# Awesome Brazilian Zouk
 
 A curated list of awesome Brazilian Zouk resources.
 
